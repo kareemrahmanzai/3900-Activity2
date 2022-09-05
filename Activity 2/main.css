@@ -50,3 +50,8 @@ max-width: 940px;
    margin: 0 auto;
    padding: 0 5%;  
 }
+
+#back {
+    text-align: center;
+    margin: auto;
+}
